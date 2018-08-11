@@ -4,8 +4,15 @@ body{
 }
 
 .jumbotron{
-	background-color: grey;
+	background-color: orange;
 	color: orange;
+}
+
+.topText{
+	color: orange;
+	font-size: 50px;
+    font-family: 'Bowlby One SC';
+    text-shadow: -3px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
 
 h1{
