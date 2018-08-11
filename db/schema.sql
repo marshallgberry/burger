@@ -10,3 +10,5 @@ CREATE TABLE burgers
 	devoured BOOLEAN default false,
 	date TIMESTAMP
 );
+
+select * from burgers;
